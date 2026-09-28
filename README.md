@@ -3,7 +3,7 @@
 A production-shaped project & task management app — think a lightweight Linear/Asana. Built to demonstrate a real full-stack engineering setup: typed end to end, secure auth with refresh-token rotation, role-based access, and an analytics dashboard backed by real MongoDB aggregations.
 
 **Stack:** React + TypeScript + Vite + Tailwind · Node.js + Express + TypeScript (MVC) · MongoDB + Mongoose · JWT access + rotating refresh tokens · React Query · Recharts · Jest + Supertest.
-
+ 
 ```
 taskflow/
 ├── backend/          Express API (MVC, TypeScript)
